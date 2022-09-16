@@ -1,4 +1,4 @@
-#les adresses des variables sont indiquées avec les commentaires qui les précèdent
+#les adresses des variables sont indiquÃ©es avec les commentaires qui les prÃ©cÃ¨de
 .data
 #0x10010000
 o1: .byte, 1

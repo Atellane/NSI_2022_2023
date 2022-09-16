@@ -16,7 +16,7 @@ sb $t3, 0($t0)
 add $t3, $t1, $t2
 #envoie la valeur contenue dans $t3 dans 1($t0)
 sb $t3, 1($t0)
-# récupère 5($t0)
+# rÃ©cupÃ¨re 5($t0)
 lb $t5, 5($t0)
 # envoie la valeur de 5($t0) contenue dans $t5 dans 2($t2)
 sb $t5, 2($t0)

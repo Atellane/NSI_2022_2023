@@ -8,7 +8,7 @@ lb $t0, somme
 lb $t1, i
 
 for:
-#va à fin si i==0
+#va Ã  fin si i==0
 beq $t1, 0, fin
 #additionne somme et i
 add $t0, $t0, $t1

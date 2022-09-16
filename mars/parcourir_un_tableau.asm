@@ -3,7 +3,7 @@ tab: .byte 1, 2, 3, 4
 break_line: .asciiz "\n"
 .text
 la $t1, tab
-# 0($t1) = prmière adresse du tableau, 1($t1) = deuxième adresse du tableau, etc
+# 0($t1) = premiÃ¨re adresse du tableau, 1($t1) = deuxiÃ¨me adresse du tableau, etc
 lb $t2, 0($t1)
 li $v0, 1
 move $a0, $t2
