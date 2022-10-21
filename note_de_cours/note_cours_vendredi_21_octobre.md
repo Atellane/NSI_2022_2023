@@ -25,9 +25,12 @@ algorithme tableau trié :
 ```
 _Données :_ une suite d'entier T // stockée dans un tableau
 _Résultat :_ vrai si le tableau est trié, sinon, faux
-trié = faux
+nbFaux= 0
 _Pour_ i de 1 _à_ longueur de T - 1
-    si T[i] < t[i+1]
-    _alors_ trié = vrai _sinon_ trié = faux
-afficher trié
+    _si_ T[i] > t[i+1]
+        _alors_ nbFaux = nbFaux+1
+_si_ nbFaux > 0
+    afficher vrai
+_sinon_
+afficher faux
 ```
