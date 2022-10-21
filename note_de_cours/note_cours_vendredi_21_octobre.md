@@ -32,5 +32,5 @@ _Pour_ i de 1 _à_ longueur de T - 1
 _si_ nbFaux > 0
     afficher vrai
 _sinon_
-afficher faux
+    afficher faux
 ```
