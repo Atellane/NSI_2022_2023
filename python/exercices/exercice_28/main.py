@@ -44,7 +44,7 @@ partie8 = chaine_de_caractere("8") # crée une instance 'partie 8' de la class c
 print(partie8.name)
 partie7.prenom()
 
-partie9 = arithmetique("9") # crée une instance 'partie5' de la class arithmetique avec self.name = "5."
+partie9 = arithmetique("9") # crée une instance 'partie9' de la class arithmetique avec self.name = "9."
 
 # affiche le nom de l'instance de arithmetique, calule l'âge de l'utilisateur à partir de son année de naissance, puis l'affiche
 print(partie9.name)
