@@ -38,7 +38,7 @@ partie7 = chaine_de_caractere("7") # crée une instance 'partie 7' de la class c
 print(partie7.name)
 partie7.afficher("Bonjour!")
 
-partie8 = chaine_de_caractere("8") # # crée une instance 'partie 8' de la class chaine_de_caractere avec self.name = "8."
+partie8 = chaine_de_caractere("8") # crée une instance 'partie 8' de la class chaine_de_caractere avec self.name = "8."
 
 # affiche Le nom de l'instance de chaine_de_caractere, demande son prénom à l'utilisateur et affiche 'Bonjour' suivit du prénom de l'utilisateur
 print(partie8.name)
