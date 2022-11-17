@@ -1,4 +1,4 @@
-from class_fonction.fonction_class import partie1, arithmetique, chaine_de_caractere
+from class_and_fonction.fonction_class import partie1, arithmetique, chaine_de_caractere
 
 partie1() # calcul m*x+p (m, x et p sont donné par l'utilisateur.ice)
 
