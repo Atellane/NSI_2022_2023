@@ -30,7 +30,7 @@ partie6 = chaine_de_caractere("6") # crée une instance 'partie 6' de la class c
 
 # affiche le nom de l'instance chaine_de_caractere et concatène les 2 chaine de caractères que sa méthode concatenation prend en paramètre
 print(partie6.name)
-partie6.concatenation("j'aprends ", "la programmation dite 'impérative'")
+partie6.concatenation("j'aprends ", "la programmation dite \"impérative\"")
 
 partie7 = chaine_de_caractere("7") # crée une instance 'partie 7' de la class chaine_de_caractere avec self.name = "7.
 
