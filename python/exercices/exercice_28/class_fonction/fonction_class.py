@@ -26,12 +26,12 @@ class arithmetique(partie_exercice) :
         super().__init__(name)
     
     # quotient : str, dividende : int, diviseur : int
-    def divisionEuclidienne(self, renvoie: str, dividende: int, diviseur: int) :
-        """effectue une divison euclidienne de la valeur du paramètre dividende par la valeur du paramètre diviseur et renvoie le quotient ou le reste"""
-        if renvoie == "quotient" :
+    def divisionEuclidienne(self, affiche: str, dividende: int, diviseur: int) :
+        """effectue une divison euclidienne de la valeur du paramètre dividende par la valeur du paramètre diviseur et affiche le quotient ou le reste"""
+        if affiche == "quotient" :
             quotient = dividende // diviseur
             print(f"le quotient de la division euclidenne {dividende} / {diviseur} est {quotient}\n")
-        elif renvoie == "reste" :
+        elif affiche == "reste" :
             reste = dividende % diviseur
             print(f"le reste de la division euclidenne {dividende} / {diviseur} est {reste}\n")
         else :
@@ -39,7 +39,7 @@ class arithmetique(partie_exercice) :
 
     # dividende : float, dividende : float
     def divisionReelle(self, dividende: float, diviseur: float) -> None :
-        """effectue une divison réelle de la valeur du paramètre dividende par la valeur du paramètre diviseur et renvoie le résultat"""
+        """effectue une divison réelle de la valeur du paramètre dividende par la valeur du paramètre diviseur et affiche le résultat"""
         resultat = dividende / diviseur
         print(f"le résultat de la division réelle {dividende} / {diviseur} est {resultat}\n")
     
