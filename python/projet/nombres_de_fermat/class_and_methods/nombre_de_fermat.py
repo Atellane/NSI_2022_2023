@@ -1,5 +1,5 @@
 from math import sqrt
-class ceNombreDeFermatEstIlPremier() :
+class NombreDeFermat() :
     def __init__(self, indice: int) -> None :
         """indiquer le nombre qu'on va traiter"""
         self.indice = indice
@@ -19,11 +19,11 @@ class ceNombreDeFermatEstIlPremier() :
                 i = i + 2
 
             if i >= sqrt(nombre) :
-                print(f"le nombre 2^(2^{self.indice}) est premier !")
+                print(f"le nombre 2^(2^{self.indice}) + 1 (= {nombre}) est premier !")
             else :
-                print(f"le nombre 2^(2^{self.indice}) n'est pas premier !")
+                print(f"le nombre 2^(2^{self.indice}) + 1 (= {nombre}) n'est pas premier !")
 
         elif self.indice == 2 :
-            print(f"le nombre 2^(2^{self.indice}) est premier !")
+            print(f"le nombre 2^(2^{self.indice}) + 1 (= {nombre}) est premier !")
         else:
-            print(f"le nombre 2^(2^{self.indice}) n'est pas premier !")
+            print(f"le nombre 2^(2^{self.indice}) + 1 (= {nombre}) n'est pas premier !")
