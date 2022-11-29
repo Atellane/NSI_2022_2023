@@ -8,7 +8,7 @@ for i in range(6) :
     testNombreFermat: object = NombreDeFermat(i)
     testNombreFermat.nombre_de_fermat_premier(testNombreFermat.nombres_de_fermat())
 
-sleep(10.0)
+sleep(5.0)
 
 for i in range(32) :
     calculNombreFermat: object = NombreDeFermat(i)
