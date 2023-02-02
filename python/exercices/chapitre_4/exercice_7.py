@@ -20,7 +20,7 @@ def demandeTableauUtilisateur() -> list:
 				valeurTableau: int = int(demandeValeurTableau)
 				tableau.append(valeurTableau)
 			except ValueError :
-				tableau.append(valeurTableau)
+				tableau.append(demandeValeurTableau)
 		else :
 			return tableau
 
