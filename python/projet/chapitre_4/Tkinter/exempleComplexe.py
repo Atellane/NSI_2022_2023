@@ -9,9 +9,8 @@ ouvrirImage: object = Image.open("crylia.png")
 imageForTkinter: object = ImageTk.PhotoImage(image=ouvrirImage)
 font: object = tkFont.Font(family="DroidSansMono Nerd Font", weight="normal")
 
-for i in range(9):
-	fenetrePrincipale.rowconfigure(i, weight=1)
-	fenetrePrincipale.columnconfigure(i, weight=1)
+fenetrePrincipale.rowconfigure(8, weight=1)
+fenetrePrincipale.columnconfigure(8, weight=1)
 
 texte: object = Label(fenetrePrincipale, text="", font=font)
 
@@ -75,7 +74,7 @@ imageAffichage.grid(row=4, column=8)
 
 testChampsDeSaisi: object = Entry(fenetrePrincipale)
 
-def changerTexteEvt(evt) -> str:
+def changerTexteEvt(evt:object) -> str:
 	texte.grid_forget()
 	texte["text"] = bienAfficherRetourMethodeInfo(testChampsDeSaisi.get(), None)
 	testChampsDeSaisi.delete(0, len(testChampsDeSaisi.get()) + 1)
