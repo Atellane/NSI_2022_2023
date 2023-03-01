@@ -29,6 +29,6 @@ class ModelChatCPT():
 		return phrase
 
 	def choixAleatoireImage(self: object) -> object:
-		"""choisi une image au hasard dans la liste des images disponibles"""
+		"""choisi une image au hasard dans la liste des images disponibles (images téléchargées à partir du script "banque_image_libre_droit.py")"""
 		imageChoisie: object = self.image[randrange(len(self.image))]
 		return imageChoisie

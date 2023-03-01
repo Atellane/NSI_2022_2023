@@ -1,8 +1,7 @@
-from model import ModelChatCPT
-from view import ViewChatCPT
 class ControllerChatCPT():
-	@staticmethod
-	def poserQuestion():
-		view: object = ViewChatCPT()
-		model: object = ModelChatCPT()
-		view.poserQuestionUtilisateur(model.creationPhrase(), model.choixAleatoireImage())
+	def __init__(self: object, model: object, view: object) -> object:
+		self.model = model
+		self.view = view
+
+	def poserQuestion(self) -> None:
+		self.view.poserQuestionUtilisateur(self.model.creationPhrase, self.model.choixAleatoireImage)
