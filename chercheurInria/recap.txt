@@ -1,0 +1,38 @@
+parcours : n'aimait pas pysique, a cherché concours prépa sans physique, étude à l'ENS.
+
+individu et opinion : Il est choqué par le fait que les citoyens n'aient pas accès aux textes de loi
+et à la jurisprudence, cela pourrait faire partie de ses traveaux de répondre à cette problématique.
+
+en quoi consiste le métier : peut être exercé soit en université (avec composante d'enseignement)
+ou en entreprise. colaboration (plus ou moins vrais,
+plus d'expérience = plus d'équipe car traveaux plus complexe)
+Il essaye en ce moment de créer une cohésion d'équipe afin de faciliter le travail en groupe.
+Il se sert de la capacitée à raisonner qu'il a aquis avec les mathématiques régulièrement.
+Il existe à travers les chercheurs des travaux qui sont très théoriques mais d'autres qui sont plus
+des traveaux pratiques existes également.
+
+journée type : créatif le matin, pas de réu le matin dans la mesure du possible.
+Il décide de son emploi du temps (venu volontairement). 
+Il écrit des articles et relis des articles de recherches afin d'augmenter le volume de connaissance 
+dans le domaine. Il travaille en théorie 38h30 par semaine, en pratique c'est variable.
+
+exemple de sujet sur lequel il peut travailler : (explication sur
+"qu'est-ce que le fact checking (travail effectué par les journalistes
+(particulièrement les "fact checker")" il tentait d'automatiser la recherche
+d'informations de façon à faciliter la recherche des journalistes 
+(problématique à résoudre : plein de bases de données réparties à travers le monde auquel il faut 
+demander un fort volume de données à des bases de données qui sont en plus codées dans plein de langages
+différents)
+Chercher un protocole de communication avec lequel un maximum de clients puissent communiqués sans créer
+d'interférence
+
+sujet de sa thèse : intérogation de bases de données avec des requettes qui prennent en compte le sens
+(sémantique) des tables (il est prouvé que ce n'était possible que dans certains cas particuliés, il
+tentait de trouver quel était ces cas particuliées dans sa thèse).
+
+preuve que les maths ont leurs importances :
+il nous a soumis une problématiques, comment prouver qu'on sait colorier un graphes pour lequel 2 
+arrètes voisines ne seront jamais de même couleur sans montrer le coloriage mais en montrant seulement
+des informations qui sont supposées vraies et donc déjà connues, c'est possible en montrant toutes les
+arrêtes voisines de son graphe sans montrés le graphe en général et donc ne pas dévoiler sa coloration
+les maths permettent de calculer la proba de trouver 2 arrètes voisines.
