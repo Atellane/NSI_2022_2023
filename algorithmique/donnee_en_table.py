@@ -38,6 +38,5 @@ print("-------------------------------------------------------------------------
 
 listeCineParis: list = []
 for i in range(len(tableauDonnee)):
-    if ("Paris " in tableauDonnee[i][5]): # espace à "Paris " afins d'exclure les communes dont le nom contient "Paris" mais qui ne sont pas Paris
-        listeCineParis.append(tableauDonnee[i][5])
+    if (tableauDonnee[i][4][:2] == "75"):
 print("nombre de ciné à Paris :", len(listeCineParis))
