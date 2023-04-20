@@ -1,0 +1,800 @@
+id,Auteur
+1,Armand Lunel
+2,Bernard Nabonne
+3,André Obey
+4,Marcel Aymé
+5,Germaine Beaumont
+6,Philippe Hériat
+7,Louis-Ferdinand Céline
+8,Charles Brabant
+9,Louis Francis
+10,François de Roux
+11,Louis Aragon
+12,Jean Rogissart
+13,Pierre-Jean Launay
+14,Jean Malaquais
+15, David Rousset
+16, Jules Roy
+17,Paul Mousset
+18,Robert Gaillard
+19,André Soubiran
+20,Roger Peyrefitte
+21,Henri Bosco
+22,Jean Cayrol
+23,Pierre Frisson
+24,Louis Guilloux
+25,Pierre Molaine
+26,Robert Margerit
+27,Jacques Perry
+28,Célia Bertin
+29,Jean Reverzy
+30,Georges Govy
+31,André Perrin
+32,Michel Butor
+33,Edouard Glissant
+34,Albert Palle
+35,Alfred Kern
+36,Roger Bordier
+37,Simone Jacquemard
+38,Jean-Marie Gustave Le Clézio
+39,Jean-Pierre Faye
+40,Georges Perec
+41,José Cabanis
+42,Salvat Etchart
+43,Yambo Ouologuem
+44,Max Olivier-Lacamp
+45,Jean Freustié
+46,Pierre-Jean Rémy
+47,Christopher Frank
+48,Suzanne Prou
+49,Georges Borgeaud
+50,Jean Joubert
+51,Michel Henry
+52,Alphonse Boudard
+53,Conrad Detrez
+54,Jean-Marc Roberts
+55,Danièle Sallenave
+56,Michel Del Castillo
+57,Georges-Olivier Châteaureynaud
+58,Jean-Marie Rouart
+59,Annie Emaux
+60,Raphaëlle Billetdoux
+61,Christian Giudicelli
+62,René-Jean Clot
+63,René Depestre
+64,Philippe Doumenc
+65,Jean Colombier
+66,Dan Franck
+67,François Weyergans
+68,Nicolas Bréhal
+69,Guillaume Le Touze
+70,Patrick Besson
+71,Boris Schreiber
+72,Pascal Bruckner
+73,Dominique Bona
+74,Daniel Picouly
+75,Ahmadou Kourouma
+76,Martine Le Coz
+77,Gérard de Cortanze
+78,Philippe Claudel
+79,Irène Némirovsky
+80,Nina Bouraoui
+81,Alain Mabanckou
+82,Daniel Pennac
+83,Tierno Monénembo
+84,Frédéric Beigbeder
+85,Apocalypse Bébé
+86,Emmanuel Carrère
+87,Scholastique Mukasonga
+88,Yann Moix
+89,Myriam Harry
+90,Romain Rolland
+91,André Corthis
+92,Colette Yver
+93,Edouard Estaunié
+94,Edmond Jaloux
+95,Marguerite Audoux
+96,Louis de Robert
+97,Jacques Morel
+98,Camille Marbo
+99,René Milan
+100,Henri Bachelin
+101,Roland Dorgelès
+102,Edmond Gojon
+103,Raymond Escholier
+104,Jacques de Lacretelle
+105,Jeanne Galzy
+106,Charles Derennes
+107,Joseph Delteil
+108,Charles Silvestre
+109,Marie Le Franc
+110,Dominique Dunois
+111,Georges Bernanos
+112,Marc Chadourne
+113,Antoine de Saint-Exupéry
+114,Ramon Fernandez
+115,Geneviève Fauconnier
+116,Robert Francis
+117,Claude Silve
+118,Louise Hervieu
+119,Raymonde Vincent
+120,Félix de Chazournes
+121,Paul Vialar
+122,Anne-Marie Monnet
+123,Michel Robida
+124,Gabrielle Roy
+125,Emmanuel Roblès
+126,Maria Le Hardouin
+127,Serge Groussard
+128,Anne de Tourville
+129,Dominique Rolin
+130,Zoé Oldenbourg
+131,Gabriel Veraldi
+132,André Dhôtel
+133,François-Régis Bastide
+134,Christian Mégret
+135,Françoise Mallet-Joris
+136,Bernard Privat
+137,Louise Bellocq
+138,Henri Thomas
+139,Yves Berger
+140,Roger Vrigny
+141,Jean Blanzat
+142,Robert Pinget
+143,Irène Monesi
+144,Claire Etcherelli
+145,Marguerite Yourcenar
+146,Jorge Semprun
+147,François Nourissier
+148,Angelo Rinaldi
+149,Roger Grenier
+150,Michel Dard
+151,René-Victor Pilhes
+152,Claude Faraggi
+153,Marie-Louise Haumont
+154,Régis Debray
+155,François Sonkin
+156,Pierre Moinot
+157,Jocelyne François
+158,Catherine Hermary-Vieille
+159,Anne Hébert
+160,Florence Delay
+161,Bertrand Visage
+162,Hector Bianciotti
+163,René Belletto
+164,Alain Absire
+165,Alexandre Jardin
+166,Sylvie Germain
+167,Pierrette Fleutiaux
+168,Paula Jacques
+169,Anne-Marie Garat
+170,Marc Lambron
+171,Olivier Rolin
+172,Geneviève Brisac
+173,Dominique Noguez
+174,François Cheng
+175,Maryline Desbiolles
+176,Camille Laurens
+177,Marie Ndiaye
+178,Chantal Thomas
+179,Dai Sijie
+180,Jean-Paul Dubois
+181,Régis Jauffret
+182,Nancy Huston
+183,Eric Fottorino
+184,Jean-Louis Fournier
+185,Gwenaëlle Aubry
+186,Patrick Lapeyre
+187,Simon Liberati
+188,Patrick Deville
+189,Léonora Miano
+190,Paul Acker
+191,Avesnes
+192,Charles Géniaux
+193,Camille Mayran
+194,Pierre Benoit
+195,Pierre Villetard
+196,Francis Carco
+197,Alphonse de Châteaubriant
+198,Émile Henriot
+199,François Duhourcau
+200,François Mauriac
+201,Joseph Kessel
+202,Jean Balde
+203,André Demaison
+204,Henri Pourrat
+205,Jacques Chardonne
+206,Roger Chauviré
+207,Paule Régnier
+208,Albert Touchard
+209,Guy de Pourtalès
+210,Jean de La Varende
+211,Édouard Peisson
+212,Robert Bourget-Pailleron
+213,Joseph-Henri Louwyck
+214,Pierre Lagarde
+215,Marc Blancpain
+216,Jean Orieux
+217,Yves Gandon
+218,Yvonne Pagniez
+219,Joseph Jolinon
+220,Bernard Barbey
+221,Henri Castillou
+222,Jean Hougron
+223,Michel de Saint-Pierre
+224,Paul Guth
+225,Jacques de Bourbon Busset
+226,Henri Queffélec
+227,Gabriel d'Aubarède
+228,Christian Murciaux
+229,Pham Van Ky
+230,Michel Mohrt
+231,Michel Droit
+232,Jean Husson
+233,Michel Tournier
+234,Albert Cohen
+235,Pierre Moustiers
+236,Bertrand Poirot-Delpech
+237,Jean d'Ormesson
+238,Patrick Modiano
+239,Michel Déon
+240,Kléber Haedens
+241,Pierre Schoendoerffer
+242,Camille Bourniquel
+243,Pascal Jardin
+244,Henri Coulonges
+245,Louis Gardel
+246,Jean Raspail
+247,Vladimir Volkoff
+248,Liliane Guignabodet
+249,Jacques-Francis Rolland
+250,Frédérique Hébrard
+251,François-Olivier Rousseau
+252,Geneviève Dormann
+253,Paule Constant
+254,François Sureau
+255,Franz-Olivier Giesbert
+256,Philippe Beaussant
+257,Frédéric Vitoux
+258,Calixthe Beyala
+259,Patrick Rambaud
+260,Anne Wiazemsky
+261, François Taillandier
+262, Amélie Nothomb
+263,Pascal Quignard
+264,Éric Neuhoff
+265,Marie Ferranti
+266,Jean-Noël Pancrazi
+267,Bernard du Boucheron
+268,Henriette Jelinek
+269,Jonathan Littell
+270,Vassilis Alexakis
+271,Marc Bressant
+272,Pierre Michon
+273,Éric Faye
+274,Sorj Chalandon
+275,Joël Dicker
+276,Christophe Ono-dit-Biot
+277,Erik Orsenna 
+278,Jean Vautrin 
+279,Françoise Lefèvre 
+280,Pierre Combescot 
+281,Eduardo Manet 
+282,Claude Pujade-Renaud 
+283,Andreï Makine 
+284,Jean-Pierre Milovanoff
+285,Luc Lang
+286,Jean-Marie Laclavetine
+287,Shan Sa
+288,Laurent Gaudé
+289,Yann Apperry
+290,Philippe Grimbert
+291,Catherine Cusset
+292,Jean-Michel Guenassia
+293,Mathias Enard
+294,Carole Martinez
+295,André Malraux
+296,Pierre Bost
+297,Simone Ratel
+298,Marc Bernard
+299,Jacques Debû-Bridel
+300,René Laporte
+301,Romain Roussel
+302,Paul Nizan
+303,Roger de Lafforest
+304,Roger Vailland
+305,Jacques Nels
+306,Pierre Daninos
+307,Henry Castillou
+308,Gilbert Sigaux
+309,Georges Auclair
+310,Jacques Perret
+311,Jean Dutourd
+312,Louis Chauvet
+313,Maurice Boissais
+314,Félicien Marceau
+315,Armand Lanoux
+316,Paul Guimard
+317,Antoine Blondin
+318,Jean Portelle
+319,Henry Muller
+320,Jean Ferniot
+321,Henri-François Rey
+322,Renée Massip
+323,René Fallet
+324,Alain Bosquet
+325,Yvonne Baby
+326,Christine de Rivoyre
+327,Pierre Rouanet
+328,Georges Walter
+329,Lucien Bodard
+330,René Mauriès
+331,Voldemar Lestienne
+332,Jean-Didier Wolfromm
+333,François Cavanna
+334,Christine Arnothy
+335,Louis Nucera
+336,Éric Ollivier
+337,Jacques Duquesne
+338,Michèle Perrein
+339,Serge Lentz
+340,Philippe Labro
+341,Raoul Mille
+342,Bernard-Henri Lévy
+343,Alain Gerber
+344,Bruno Bayon
+345,Sébastien Japrisot
+346,Jean-Pierre Dufreigne
+347,Marc Trillard
+348,Gilles Martin-Chauffier
+349,Jean-Christophe Rufin
+350,Patrick Poivre d'Arvor
+351,Stéphane Denis
+352,Gonzague Saint-Bris
+353,Florian Zeller
+354,Michel Houellebecq
+355,Michel Schneider
+356,Serge Bramly
+357,Yannick Haenel
+358,Jean-Michel Olivier
+359,Morgan Sportes
+360,Philippe Djian
+361,Nelly Alard
+362,Claude Ollier
+363,Claude Mauriac
+364,Philippe Sollers
+365,Colette Audry
+366,Gérard Jarlot
+367,Monique Wittig
+368,Marie-Claire Blais
+369,Claude Simon
+370,Elie Wiesel
+371,Hélène Cixous
+372,Pascal Lainé
+373,Maurice Clavel
+374,Tony Duvert
+375,Dominique Fernandez
+376,Jacques Almira
+377,Marc Cholodenko
+378,Michel Butel
+379,Claude Durand
+380,Jean-Luc Benoziglio
+381,Jean-François Josselin
+382,Jean Echenoz
+383,Michel Braudeau
+384,Pierre Mertens
+385,Christiane Rochefort
+386,Serge Doubrovsky
+387,Yves Simon
+388,Michel Rio
+389,Emmanuelle Bernheim
+390, Jacqueline Harpman
+391, Jean Rolin
+392,Philippe Le Guillou
+393,Homeric
+394,Christian Oster
+395,Benoît Duteurtre
+396,Anne Garréta
+397,Hubert Mingarelli
+398,Marie Nimier
+399,Jean-Philippe Toussaint
+400,Jean Hatzfeld
+401,Jean-Marie Blas de Roblès
+402,Dany Laferrière
+403,Maylis de Kerangal
+404,Mathieu Lindon
+405,Emmanuelle Pireyre
+406,Marie Darrieussecq
+407,John-Antoine Nau
+408,Léon Frapié
+409,Claude Farrère
+410,Jérôme et Jean Tharaud
+411,Emile Moselly
+412,Francis de Miomandre
+413,Marius-Ary Leblond
+414,Louis Pergaud
+415,André Savignon
+416,Marc Elder
+417,Adrien Bertrand
+418,René Benjamin
+419,Henri Barbusse
+420,Henri Malherbe
+421,Georges Duhamel
+422,Marcel Proust
+423,Ernest Pérochon
+424,René Maran
+425,Henri Béraud
+426,Lucien Fabre
+427,Thierry Sandre
+428,Maurice Genevoix
+429,Henry Deberly
+430,Maurice Bedel
+431,Maurice Constantin-Weyer
+432,Marcel Arland
+433,Henri Fauconnier
+434,Jean Fayard
+435,Guy Mazeline
+436,Roger Vercel
+437,Joseph Peyré
+438,Maxence Van der Meersch
+439,Charles Plisnier
+440,Henri Troyat
+441,Francis Ambrière
+442,Marius Grout
+443,Elsa Triolet
+444,Jean-Louis Bory
+445,Jean-Jacques Gautier
+446,Jean-Louis Curtis
+447,Maurice Druon
+448,Robert Merle
+449,Paul Colin
+450,Julien Gracq
+451,Beatrix Beck
+452,Pierre Gascar
+453,Simone de Beauvoir
+454,Roger Ikor
+455,Romain Gary
+456,Francis Walder
+457,André Schwart-Bart
+458,Jean Cau
+459,Anna Langfus
+460,Georges Conchon
+461,Jacques Borel
+462,Edmonde Charles-Roux
+463,André Pieyre de Mandiargues
+464,Bernard Clavel
+465,Jacques Laurent
+466,Jean Carrière
+467,Jacques Chessex
+468,Emile Ajar
+469,Patrick Grainville
+470,Didier Decoin
+471,Antonine Maillet
+472,Yves Navarre
+473,Fréderick Tristan
+474,Marguerite Duras
+475,Yann Quéffelec
+476,Michel Host
+477,Tahar Ben Jelloun
+478,Jean Rouaud
+479,Patrick Chamoiseau
+480,Amin Maalouf
+481,Didier Van Cauwelaert
+482,Pascale Roze
+483,Jean-Jacques Schuhl
+484,Jacques-Pierre Amette
+485,Gilles Leroy
+486,Atiq Rahimi
+487,Alexis Jenni
+488,Jérôme Ferrari
+489,Pierre Lemaître
+490,Catherine d'Etchéa
+491,Agustin Gómez-Arcos
+492,Daniel Boulanger
+493,Marguerite Gurgand
+494,Marcel Schneider
+495,Hortense Dufour
+496,Marek Halter
+497,Jean-Jacques Brochier
+498,François Salvaing
+499,Philippe Hadengue
+500,Agota Kristof
+501,Frédéric Boyer
+502,Robert Bober
+503,Agnès Desarthe
+504,Martin Winckler
+505,Antoine Volodine
+506,Laurent Mauvignier
+507,Christian Gailly
+508,Pierre Péju
+509,Joël Egloff
+510,Jean-Baptiste Harang
+511,François Vallejo
+512,Henry Bauchau
+513,Cloé Korman
+514,Olivia Rosenthal
+515,Nathalie Léger
+516,Alice Zeniter
+517,Claude Askolovitch
+518,Anthony Palou
+519,Chloé Delaume
+520,Philippe Forest
+521,Charles Dantzig
+522,Pierre Guyotat
+523,Frédéric Schiffter
+524, Jean-Christophe Bailly
+525, Olivier Frébourg
+526,Mathieu Riboulet
+527,Maël Rénouard
+528,Arlette Grebel
+529,Elvire de Brissac
+530,Simone Schwarz-Bart
+531,Max Gallo
+532,Roger Boussinot
+533,Guyette Lyr
+534,Jeanne Bourin
+535,Marie-Thérèse Humbert
+536,José-André Lacour
+537,Clarisse Nicoïdski
+538,Paul Savatier
+539,Michel Ragon
+540,Frédéric Rey
+541,François-Marie Banier
+542,Jack-Alain Léger
+543,Kenizé Mourad
+544,Charles Juliet
+545,Yves Beauchemin
+546,Claire Bonnafé
+547,Bernard Werber
+548,Gisèle Pineau
+549,Paulo Coelho
+550,Elisabeth Gille
+551,Tonino Benacquista
+552,Eric-Emmanuel Schmitt
+553,Wladyslaw Szpilman
+554,William Boyd
+555,Khaled Hosseini
+556,Duong Thu Huong
+557,Marie Sizun  
+558,Claudie Gallay
+559,Véronique Ovaldé
+560,Kathryn Stockett
+561,Delphine de Vigan
+562,Robert Goolrick
+563, Virginie  Despentes
+564, Joèel  Dicker
+565, Fred  Vargas
+566, Michel  Bussi
+567, Laetitia  Colombani
+568, Raphaëlle  Giordano
+569, Fanny Abadie
+570, Jeff  Abbott
+571, Franck  Thilliez
+572, Guillaume  Musso
+573, Thomas  Bronnec
+574, Dominique de Saint-Mars
+575,Arnaldur Indridason 
+576, Marc Levy
+577, Jean-Christophe  Grangé
+578, Philip  Roth
+579, Jim  Fergus
+580, Danielle  Steel
+581, Jean-Claude  Mourlevat
+582, David  Foenkinos
+583, Henning  Mankell
+584, John  Irving
+585, Andrea  Camilleri
+586, Bret Easton  Ellis
+587, Joyce Carol  Oates
+588, Christine  Angot
+589, Édouard  Louis
+590, Suzanne Collins
+591, Michael  Connelly
+592, Harlan  Coben
+593, Nele  Neuhaus
+594, Françoise Bourdin
+595, Dennis  Lehane
+596, Patricia J.  MacDonald
+597, Alice  Ferney
+598, Elizabeth  George
+599, Camilla  Läckberg
+600, Stuart  Neville
+601, Antoine  Piazza
+602, Patricia  Cornwell
+603, Lars Kepler
+604, Olivier Adam
+605, Boualem  Sansal
+606, Isabelle  Autissier
+607, Clémentine Beauvais
+608, Céline  Minard
+609, Bernard  Minier
+610, Katherine  Pancol
+611, Anna  Gavalda
+612, Sylvain  Tesson
+613, Philippe  Besson
+614, Nathacha  Appanah
+615, Véronique  Olmi
+616, Yves  Ravey
+617, Roger Jon  Ellory
+618, Stieg  Larsson
+619, Eliette  Abécassis
+620, Paul  Cleave
+621, Carlos  Ruiz Zafon
+622, François  Bégaudeau
+623, Jean  Teulé
+624, Christos  Tsiolkas
+625, Haruki  Murakami
+626, Jonathan  Coe
+627, Adrien  Bosc
+628, Sandrine  Collette
+629,-
+630, Jean-Bernard  Pouy
+631, Christian  Signol
+632, Gilles Abier
+633, Jussi  Adler-Olsen
+634, Carlos  Ruiz Zafón
+635, Mary Higgins  Clark
+636, Anne  Frank
+637, Andrea H. Japp
+638, Jonathan Kellerman
+639, John  Grisham
+640, Paul  Auster
+641, Amitav  Ghosh
+642, Jeff Kinney
+643, Gilles  Legardinier
+644, Marie-Hélène  Lafon
+645, Grégoire  Delacourt
+646, Kamel  Daoud
+647, Cécile  Coulon
+648, Jo  Nesbo
+649, Metin  Arditi
+650, Russell  Banks
+651, Françoise Chandernagor
+652,Bergsveinn Birgisson 
+653,Audur Ava Olafsdottir 
+654, Stephen  King
+655, Gillian  Flynn
+656, John Green
+657, Hervé  Le Corre
+658, Lydie  Salvayre
+659, Kéthévane  Davrichewy
+660, Carlos  Salem
+661, Christophe  Boltanski
+662, Catherine  Poulain
+663, Ian  Manook
+664, Douglas  Kennedy
+665, Dan  Brown
+666, Nicolas Fargues
+667, Yasmina Khadra
+668, Ron  Rash
+669, Víctor del  Arbol
+670, E. L.  James
+671, Muriel  Barbery
+672, Johan  Theorin
+673, Dominique  Sylvain
+674, Scott Westerfeld
+675, Mia  Couto
+676, Caryl  Férey
+677, Timothée de Fombelle
+678, John  Burnside
+679, Veronica Roth
+680, Sam  Millar
+681, Olivier  Bourdeaut
+682, Patrick  Flanery
+683, John  Le Carré
+684, Christine  Orban
+685, Donna  Leon
+686, Laurent  Binet
+687, Annie  Ernaux
+688, Olivier  Guez
+689, Katarina  Mazetti
+690, Éric  Reinhardt
+691, Herman  Koch
+692, Laurent  Gounelle
+693, Ken  Follett
+694, James  Ellroy
+695, Richard  Ford
+696, Jonas  Jonasson
+697, Lori Roy
+698, Viveca  Sten
+699, Leïla  Slimani
+700, Diana Abu-Jaber
+701, Katharina  Hagena
+702, Siri  Hustvedt
+703, David  Lodge
+704, David  Nicholls
+705, Craig  Johnson
+706, Romain  Puértolas
+707, Négar  Djavadi
+708, Agnès Martin-Lugand
+709, Monica  Sabolo
+710, Maxime  Chattam
+711, Stephenie  Meyer
+712, Belva  Plain
+713, Karen  Campbell
+714, Jérôme  Garcin
+715, Sofi  Oksanen
+716, Joanne Kathleen Rowling
+717, Mikkel  Birkegaard
+718, Lola  Lafon
+719, Tanguy  Viel
+720, Raphaèelle  Giordano
+721, Ian  McEwan
+722, Julie  Otsuka
+723, Anne  Percin
+724, Toni  Morrison
+725, Deon  Meyer
+726, Joseph  O'Connor
+727, Lisa Gardner
+728, Marc  Dugain
+729, Pierdomenico] [Baccalario
+730, David  Vann
+731, Phyllis Dorothy  James
+732, Bernard Giraudeau
+733, Yanick  Lahens
+734, Véronique Poulain
+735, Jean-Paul  Didierlaurent
+736, Isabelle  Carré
+737, Adélaïde de  Clermont-Tonnerre
+738, Barbara  Abel
+739, Mo  Hayder
+740, Mary Ann  Shaffer
+741, S. J.  Watson
+742, Charles T.  Powers
+743, Ayana Mathis
+744, Alice  Munro
+745, Hoai Huong  Nguyen
+746, Philippe  Jaenada
+747, Umberto  Eco
+748, Gilbert  Sinoué
+749, Ruth  Rendell
+750, Tracy  Chevalier
+751, Anne Plichota
+752, Lionel Duroy
+753, Colum  McCann
+754, Marion Achard
+755, Gaèel  Faye
+756, Javier  Cercas
+757, Tatiana de Rosnay
+758, Annie  Saumont
+759, Yasmina  Reza
+760, Olivier  Norek
+761, Victor del  Arbol
+762, David  Grossman
+763, Jeanne  Benameur
+764, Kaouther  Adimi
+765, Elizabeth Adler
+766, Pascal  Dessaint
+767, Jim  Harrison
+768, Jonathan  Franzen
+769, Laura  Kasischke
+770, Nathalie Azoulai
+771, Gaël  Faye
+772, Magyd  Cherfi
+773, Rafael Abalos
+774, Chimamanda Ngozi  Adichie
+775, Justine  Lévy
+776, Hédi  Kaddour
+777, Nick  Hornby
+778, Erri  De Luca
+779, Luis  Sepulveda
+780, Ian  Rankin
+781, Hugh  Laurie
+782, Jesse  Kellerman
+783, Christelle Dabos
+784, Janine  Boissard
+785, Keith  Ablow
+786, Serge  Joncour
+787, Marcus  Malte
+788, Agnès  Ledig
+789, Donna  Tartt
+790, Donato  Carrisi
+791, John Maxwell  Coetzee
+792, Alison Goodman
+793, Barbara Constantine
+794, Léonor de  Récondo
+795, Michael  Cunningham
+796, Jean  Anglade
+797, Jean-Baptiste  Del Amo
+798, Jaume  Cabré
+799, Éric  Vuillard
