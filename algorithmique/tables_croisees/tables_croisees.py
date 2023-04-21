@@ -87,9 +87,13 @@ for i in range(len(auteursCsv)):
         if (auteursCsv[i][0] == k[1]):
             auteurRomanPlusEmprunte2014 = auteursCsv[i][1]
 
-prixLitteraireOuNon2014: str = "n'as pas reçu de prix littéraire"
+
+idRomanDominiqueDeSaintMars: list = [romansCsv[i][0] for i in range(len(romansCsv)) if (romansCsv[i][2] == titreEtIdAuteurRomanPlusEmprunte2014[0][1])]
+
+prixLitteraireOuNon2014: str = "cet auteur n'as pas reçu de prix littéraire"
 for i in prixLitteraireCsv:
-    if i[2] == idRomanPlusEmprunte2014:
-        prixLitteraireOuNon2014 = "a reçu un prix littéraire"
+    for k in idRomanDominiqueDeSaintMars:
+        if (i[2] == k):
+            prixLitteraireOuNon2014 = "cet auteur a reçu un prix littéraire"
 
 print(f"Le roman le plus emprunté de 2014 a pour titre \"{titreEtIdAuteurRomanPlusEmprunte2014[0][0][:-1]}\", pour auteur \"{auteurRomanPlusEmprunte2014[1:]}\" et {prixLitteraireOuNon2014}.")
