@@ -62,8 +62,34 @@ romansSaintExuperyQuiOntRecuUnPrix: list = [[romansSaintExuperyQuiOntPasRecuDePr
 for i in romansSaintExuperyQuiOntRecuUnPrix:
     romansSaintExuperyQuiOntPasRecuDePrix.remove(i)
 
-
+print("--------------------------------------------------------------------------------------------------------------------------------------------------------")
 
 print("Les romans écrit par Antoine de Saint-Exupéry sont (ils ont tous reçus un prix) :")
 for i in romansSaintExuperyQuiOntRecuUnPrix:
     print(i[0])
+
+print("--------------------------------------------------------------------------------------------------------------------------------------------------------")
+
+listeEmprunts2014: list = [[empruntCsv[i][2], empruntCsv[i][3]] for i in range(len(empruntCsv)) if (empruntCsv[i][1] == "2014")]
+
+idRomanPlusEmprunte2014: str = ""
+for i in listeEmprunts2014:
+    nombreEmpruntMax: int = 0
+    if (int(i[1]) > nombreEmpruntMax):
+        nombreEmpruntMax = i[1]
+        idRomanPlusEmprunte2014 = i[0]
+
+titreEtIdAuteurRomanPlusEmprunte2014: list = [[romansCsv[i][1], romansCsv[i][2]] for i in range(len(romansCsv))if (romansCsv[i][0] == idRomanPlusEmprunte2014)]
+
+auteurRomanPlusEmprunte2014: str = ""
+for i in range(len(auteursCsv)):
+    for k in titreEtIdAuteurRomanPlusEmprunte2014:
+        if (auteursCsv[i][0] == k[1]):
+            auteurRomanPlusEmprunte2014 = auteursCsv[i][1]
+
+prixLitteraireOuNon2014: str = "n'as pas reçu de prix littéraire"
+for i in prixLitteraireCsv:
+    if i[2] == idRomanPlusEmprunte2014:
+        prixLitteraireOuNon2014 = "a reçu un prix littéraire"
+
+print(f"Le roman le plus emprunté de 2014 a pour titre \"{titreEtIdAuteurRomanPlusEmprunte2014[0][0][:-1]}\", pour auteur \"{auteurRomanPlusEmprunte2014[1:]}\" et {prixLitteraireOuNon2014}.")
