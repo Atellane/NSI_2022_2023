@@ -1,5 +1,4 @@
 from csv import reader
-from time import sleep 
 from matplotlib import pyplot as plt
 
 def ouvrirCsv(csvName: str) -> list:
@@ -21,25 +20,25 @@ def triParInsertion(tableau: list) -> list:
 
     return tableau
 
-def obtenirEchelleKnn(tableauDuCsv: list):
+def obtenirEchelleKnn(tableauDuCsv: list) -> list:
     tableauPourTriParInsertion: list = []
     resultatsTriParInsertion: int = 0
     resultatsEchelle: list = [[0] * (len(tableauDuCsv[0]) - 1) for _ in range(len(tableauDuCsv) - 1)]
     iteration: int = 0
     for colonnes in range(len(tableauDuCsv[0]) - 1):
         for lignes in range(1, len(tableauDuCsv)):
-            print(lignes)
             tableauPourTriParInsertion.append(float(tableauDuCsv[lignes][colonnes]))
 
         resultatsTriParInsertion = triParInsertion(tableauPourTriParInsertion)[-1]
         
         for lignes in range(1, len(tableauDuCsv)):
             resultatsEchelle[lignes - 1][colonnes] = (float(tableauDuCsv[lignes][colonnes]) / resultatsTriParInsertion)
-        print(resultatsEchelle)
+    
+    return resultatsEchelle
 
 def distance(x: float,y: float,z: float,t: float,a: float,b: float,c: float,d: float):
     """
-    Renvoie la distance euclidienne entre les points de coordonnées In (x,y,z,t) et celui de coordonnées (a,b,c,d)"...
+    Renvoie la distance euclidienne entre les points de coordonnées (x,y,z,t) et celui de coordonnées (a,b,c,d)
     """
     return sqrt((x-a)**2+(y-b)**2+(z-c)**2+(t-d)**2)
 
@@ -67,11 +66,12 @@ def obtenirMoyennePourEspece(tableauDuCsv: list):
             for colonnes in range(len(tableauDuCsv[0])):
                 pass
 """
+
             
 csvIris: list = ouvrirCsv("iris.csv")
 
 #### Affichage des points ####
-
+"""
 sepal_x_s = [csvIris[i][0] for i in range(len(csvIris)) if csvIris[i][4] == "Setosa"]
 sepal_y_s = [csvIris[i][1] for i in range(len(csvIris)) if csvIris[i][4] == "Setosa"]
 petal_x_s = [csvIris[i][2] for i in range(len(csvIris)) if csvIris[i][4] == "Setosa"]
@@ -92,5 +92,8 @@ plt.plot(petal_x_s, petal_y_s, "ro")
 plt.plot(petal_x_v, petal_y_v, "go")
 plt.plot(petal_x_V, petal_y_V, "bo")
 plt.show()
-
+"""
+print(csvIris)
+obtenirEchelleKnn(csvIris)
+print(csvIris)
 # penser a regarder le fichier teams réponse algo plus proche voisins et adpater ce fichier
