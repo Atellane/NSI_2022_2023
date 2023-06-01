@@ -48,8 +48,6 @@ def compteurEspece(tableauDuCsv: list, indiceEspece: int) -> list:
         compteur += 1
     return tableauEspece
 
-
-
 """
 def obtenirMoyennePourEspece(tableauDuCsv: list):
    echelle: list = obtenirEchelleKnn(tableauDuCsv)
